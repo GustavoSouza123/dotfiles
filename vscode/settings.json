@@ -32,6 +32,7 @@
     "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
     "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
     "terminal.integrated.fontSize": 14,
+		"workbench.colorTheme": "Default Dark Modern",
     "workbench.iconTheme": "material-icon-theme",
     "editor.stickyScroll.enabled": false,
     "typescript.updateImportsOnFileMove.enabled": "always"
